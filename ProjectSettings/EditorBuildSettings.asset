@@ -5,6 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Complete/Scenes/CompleteMainScene.unity
+  - enabled: 0
+    path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 327a0bb46d7d7ee4f85034ca6eb0ca29
+  - enabled: 1
+    path: Assets/vsAI-1.unity
+    guid: 37961ba4d27bd46428d20c2ffe403dc3
+  - enabled: 1
+    path: Assets/start/scene/starting.unity
+    guid: 129eb6d4d7066274a8852a48419267f7

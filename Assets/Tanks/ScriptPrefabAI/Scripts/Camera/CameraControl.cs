@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class CameraCon : MonoBehaviour
+public class CameraControl : MonoBehaviour
 {
 	public float m_DampTime = 0.2f; //approximate time for camera to move               
 	public float m_BatasLayar = 4f; //edge screen          

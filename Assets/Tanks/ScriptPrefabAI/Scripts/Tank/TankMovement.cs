@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Movement : MonoBehaviour
+public class TankMovement : MonoBehaviour
 {
 	public int m_PlayerNumber = 1;              // tank id, utk player 1 atau 2
 	public float m_Speed = 12f;                 // speed parameter dari tank
