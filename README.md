@@ -6,4 +6,6 @@ Features:
 - Grab a neighbor and test your skill in local multiplayer mode
 
 
-External Asset and Source: to be listed..
+
+
+<b>External Asset and Source:</b> will be updated...
