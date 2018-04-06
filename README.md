@@ -12,7 +12,7 @@ Player 2 - Arrow key (Directional Move) ; Return/Enter (Shoot)
 
 Edit: Added functionality to play with controller (XInput)
 
-
+<hr>
 
 
 <b>External Asset and Source:</b> will be updated...
